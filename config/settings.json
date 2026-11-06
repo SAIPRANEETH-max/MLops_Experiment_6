@@ -1,0 +1,12 @@
+{
+  "dataset_path": "data/heart_disease.csv",
+  "target_column": "target",
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_estimators": 100,
+  "new_data_path": "data/new_patients.csv",
+  "model_path": "models/heart_pipeline.pkl",
+  "metrics_path": "outputs/metrics.json",
+  "predictions_path": "outputs/predictions.csv",
+  "performance_plot_path": "outputs/performance.png"
+}

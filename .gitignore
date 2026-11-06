@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+.vscode/
+models/*.pkl
+outputs/*.json
+outputs/*.csv
+outputs/*.png
+!outputs/.gitkeep
+!models/.gitkeep
